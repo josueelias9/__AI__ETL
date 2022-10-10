@@ -18,3 +18,6 @@
 
 
 `
+
+
+https://docs.staruml.io/working-with-uml-diagrams/component-diagram
