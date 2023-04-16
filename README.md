@@ -21,3 +21,10 @@
 
 
 https://docs.staruml.io/working-with-uml-diagrams/component-diagram
+
+---
+https://github.com/josueelias9/__AI__ETL.git
+
+- https://docs.aws.amazon.com/glue/latest/dg/machine-learning-transform-tutorial.html
+- https://www.youtube.com/watch?v=8jlAoB1GmNs
+- https://www.youtube.com/watch?v=NFaSA0WMknE
